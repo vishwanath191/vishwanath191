@@ -77,7 +77,7 @@ Here are some highlights :
 
 - 💼 LinkedIn: (www.linkedin.com/in/vishwanath-parandi)
 - ✉️ Email: `vishwanathp4054@gmail.com`
-- 🌐 Portfolio: [your-portfolio-site.com]()
+- 🌐 Portfolio: [your-portfolio-site.com](https://690ef249c66a3e7801d550d9--symphonious-wisp-784cb9.netlify.app/)
 
 > ⭐ If you like my work, consider **starring** some repos or **following** me!
 
