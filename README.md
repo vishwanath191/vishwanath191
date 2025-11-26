@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/vishwanath-parandi">
+  <a href="https://www.linkedin.com/in/vishwanath-parandi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
