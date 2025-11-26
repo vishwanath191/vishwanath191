@@ -3,7 +3,7 @@
 <!-- Special GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Vishwanath</h1>
-<h3 align="center"> • love to solve problems  • Lifelong Learner </h3>
+<h3 align="center"> • love to solve problems  • love to develop/build new things  </h3>
 
 <p align="center">
   <a href="https://github.com/vishwanath191">
